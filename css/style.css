@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+}
+
+h1{
+    font-size: 18px;
+}
+
+p{
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#box1{
+
+}
